@@ -9,8 +9,6 @@ dist/
 **/dist/
 
 # Environment files
-.env
-**/.env
 
 # Logs
 *.log
@@ -23,3 +21,4 @@ Thumbs.db
 # Editor
 .vscode/
 .idea/
+config.bat
